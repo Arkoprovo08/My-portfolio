@@ -1,6 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLinkedin, faGithub, faLeanpub } from "@fortawesome/free-brands-svg-icons"; // LeetCode isn't in FontAwesome, using an alternative icon
+import { faLinkedin, faGithub, faLeanpub } from "@fortawesome/free-brands-svg-icons";
 import "./TopNavbar.css";
 
 const TopNavbar = () => {
